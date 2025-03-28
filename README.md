@@ -1,4 +1,4 @@
-# Wikipedia Homepage Replica (March X Edition)
+# Wikipedia Homepage Replica (Edition of the 19 March 2025)
 
 A static replica of the Wikipedia homepage as it appeared on a specific day in March, created using only HTML and CSS. This project focuses on replicating the layout and design using modern CSS techniques such as Flexbox and CSS Grid.  
 > **Note:** This is a **static design replica** with no functionality or JavaScript logic.
